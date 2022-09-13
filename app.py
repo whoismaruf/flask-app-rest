@@ -10,7 +10,7 @@ def hello_world():  # put application's code here
 
 @app.route('/hi')
 def say_hi():
-	return "Hi from hi route"
+	return "Hi from signed commit"
 
 
 if __name__ == '__main__':
